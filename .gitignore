@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# VS Code
+.vscode/
+
+# Azure Functions
+.local_settings.json
+
+# ONNX Model
+functions/ml_scorer/model.onnx
+
+# Others
+*.log
+.DS_Store
